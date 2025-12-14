@@ -189,7 +189,7 @@ cd front
 npm run test:coverage
 ```
 
-Le rapport sera généré dans `front/coverage/`.
+Le rapport sera généré dans `front/coverage/jest/lcov-report`.
 
 #### Générer le rapport de couverture E2E
 
@@ -198,9 +198,9 @@ cd front
 npm run e2e:coverage
 ```
 
-Le rapport sera disponible dans `front/coverage/`.
+Le rapport sera disponible dans `front/coverage/e2e`.
 
 #### Consulter le rapport
 
-Ouvrez le fichier `front/coverage/index.html` dans votre navigateur.
+Ouvrez le fichier `index.html` dans votre navigateur.
 
