@@ -16,7 +16,6 @@ Application de gestion de sessions de yoga avec authentification JWT, développ�
   - [Tests Backend](#tests-backend)
   - [Tests Frontend](#tests-frontend)
 - [Couverture de code](#couverture-de-code)
-- [Structure du projet](#structure-du-projet)
 
 ## Prérequis
 
